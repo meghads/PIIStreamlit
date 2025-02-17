@@ -1,4 +1,3 @@
-Sure! Here is the content you can copy and paste into your `README.md` file, all in one block:
 
 # PII Detection & Redaction App
 
