@@ -1,6 +1,5 @@
 Sure! Here is the content you can copy and paste into your `README.md` file, all in one block:
 
-```
 # PII Detection & Redaction App
 
 This is a Python-based application built with **Streamlit**, **Pytesseract**, **PyPDF2**, and **PyMuPDF** to detect and mask Personally Identifiable Information (PII) in documents like PDFs, images, and text files. The application supports detecting and redacting common types of PII including **Aadhaar**, **PAN**, **Driving License**, and **Voter ID**.
@@ -62,5 +61,4 @@ Once installed, make sure to point to the Tesseract executable in the code (`pyt
 ## Limitations
 - PII detection accuracy depends on the quality of the document and the recognition accuracy of Tesseract for OCR-based files.
 - The app currently supports basic PII detection for Aadhaar, PAN, Driving License, and Voter ID. You can extend it with more patterns if needed.
-- The redaction feature is only available for PDFs.
 
