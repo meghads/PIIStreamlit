@@ -64,5 +64,3 @@ Once installed, make sure to point to the Tesseract executable in the code (`pyt
 - The app currently supports basic PII detection for Aadhaar, PAN, Driving License, and Voter ID. You can extend it with more patterns if needed.
 - The redaction feature is only available for PDFs.
 
-
-You can directly paste this content into your `README.md` file.
